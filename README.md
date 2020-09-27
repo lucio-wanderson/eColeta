@@ -1,4 +1,3 @@
-# eColeta
-## Projeto final da NLW #1 
+# eColeta 
 
-Porjeto para ajuadar a conectar pessoas a pontos de coleta 
+## Projeto para ajuadar a conectar pessoas a pontos de coleta 
